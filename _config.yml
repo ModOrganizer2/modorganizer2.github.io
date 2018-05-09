@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
 title: [ModOrganizer 2]
 description: [This official help file for ModOrganizer 2]
-
+github:
+  is_project_page: false
