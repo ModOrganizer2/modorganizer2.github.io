@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to ModOrganizer 2
 
-You can use the [editor on GitHub](https://github.com/Modorganizer2/modorganizer2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ModOrganizer 2 was intially started by @Tannin, the creator the original ModOrganizer, to take care of 64 bit games such as Fallout 4.
+It is now actively maintained by a team of developers, from all backgrounds, and is now able to do much more than @Tannin ever invisioned.
 
 ### Markdown
 
