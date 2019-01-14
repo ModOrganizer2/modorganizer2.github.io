@@ -32,6 +32,10 @@ Lexy's: Legacy of The Dragonborn Special Edition [[Nexus Mods](https://wiki.nexu
 
 TUCOGUIDE [[Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/10694)] is a modding guide by Outdated TV for Skyrim SE.  It focuses on creating a good foundation for future modding by fixing bugs, improving base gameplay, and increasing graphics fidelty.  It's a moderately sized guide that walks you through the entire process:  installing and configuring MO2, installing mods, running DynDOLOD and other tools.
 
+### Documentation
+
+The documentation for MO2 is a little sparse at this time.  There is a wiki article for Mod Organizer 1.3.11 available on the [STEP](https://wiki.step-project.com/Guide:Mod_Organizer) website.  Many of the primary features of MO2 remain the same as MO1 but there can be some differences.  MO2 also contains a number of new features that aren't documented in this wiki article.  Given that, the wiki article can be good for general information but use it with care.
+
 ## Need Help?
 
 [Discord](https://discord.gg/vD2ZbfX) is a text and voice chat program.  This is the preferred means of contacting someone on the team when you run into problems or have questions about MO2.  The Mod Organizer 2 Dev server can accessed through this invite link: https://discord.gg/vD2ZbfX.  Here's a description of the more common channels:
