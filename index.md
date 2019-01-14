@@ -1,6 +1,6 @@
 ## Welcome to Mod Organizer 2
 
-MO2 was initially started by Tannin, the creator of the original ModOrganizer, to take care of 64 bit games such as Fallout 4.  It is now actively maintained by a team of developers, from all backgrounds, and is now able to do much more than @Tannin ever envisioned.
+MO2 was initially started by Tannin, the creator of the original ModOrganizer, to take care of 64 bit games such as Fallout 4.  It is now actively maintained by a team of developers, from all backgrounds, and is now able to do much more than Tannin ever envisioned.
 
 ## Getting Started
 
