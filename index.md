@@ -38,7 +38,7 @@ The documentation for MO2 is a little sparse at this time.  There is a wiki arti
 
 ## Need Help?
 
-[Discord](https://discord.gg/vD2ZbfX) is a text and voice chat program.  This is the preferred means of contacting someone on the team when you run into problems or have questions about MO2.  The Mod Organizer 2 Dev server can be accessed through this invite link: [https://discord.gg/vD2ZbfX](https://discord.gg/vD2ZbfX).  Here's a description of the more common channels:
+[Discord](https://discord.gg/6GKR9jZ) is a text and voice chat program.  This is the preferred means of contacting someone on the team when you run into problems or have questions about MO2.  The Mod Organizer 2 Dev server can be accessed through this invite link: [https://discord.gg/vD2ZbfX](https://discord.gg/6GKR9jZ).  Here's a description of the more common channels:
 * **#info-faq**: Check this first for server rules, common issues, common solutions, etc.
 * **#general**: General questions and discussion about MO2.  Usually not suitable for general questions about mods.
 * **#issue-reports**: Where to go if you're having problems using MO2.  Crashes, freezes, mods not showing up in programs, and other such things.
@@ -48,4 +48,4 @@ The documentation for MO2 is a little sparse at this time.  There is a wiki arti
 
 ## Want to Contribute?
 
-MO2 is a free, open-source project and relies on people contributing their free time for bug fixes and improvements.  We're always open to getting some more help with development, documentation, translations, and other such things.  The best way to get started is to join us on [Discord](https://discord.gg/vD2ZbfX).  Programmers, or anyone interested in building the source code for MO2, should check out the [modorganizer-umbrella](https://github.com/ModOrganizer2/modorganizer-umbrella) repo.
+MO2 is a free, open-source project and relies on people contributing their free time for bug fixes and improvements.  We're always open to getting some more help with development, documentation, translations, and other such things.  The best way to get started is to join us on [Discord](https://discord.gg/6GKR9jZ).  Programmers, or anyone interested in building the source code for MO2, should check out the [modorganizer-umbrella](https://github.com/ModOrganizer2/modorganizer-umbrella) repo.
