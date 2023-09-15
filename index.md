@@ -38,7 +38,7 @@ The documentation for MO2 is a little sparse at this time.  There is a wiki arti
 
 ## Need Help?
 
-[Discord](https://discord.gg/6GKR9jZ) is a text and voice chat program.  This is the preferred means of contacting someone on the team when you run into problems or have questions about MO2.  The Mod Organizer 2 Dev server can be accessed through this invite link: (https://discord.gg/ewUVAqyrQX)[https://discord.gg/ewUVAqyrQX].  Here's a description of the more common channels:
+[Discord](https://discord.gg/6GKR9jZ) is a text and voice chat program.  This is the preferred means of contacting someone on the team when you run into problems or have questions about MO2.  The Mod Organizer 2 Dev server can be accessed through this invite link: [https://discord.gg/ewUVAqyrQX](https://discord.gg/ewUVAqyrQX).  Here's a description of the more common channels:
 * **#info-faq**: Check this first for server rules, common issues, common solutions, etc.
 * **#general**: General questions and discussion about MO2.  Usually not suitable for general questions about mods.
 * **#issue-reports**: Where to go if you're having problems using MO2.  Crashes, freezes, mods not showing up in programs, and other such things.
